@@ -1,2 +1,4 @@
 asyncio
 discord.py
+DiscordUtils
+nextcord
